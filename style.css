@@ -165,7 +165,7 @@ background-size: 100%;
 }
 .parrafo3{
   text-align: center;
-  font-family: "Style Script", cursive;
+  font-family: 'Alex Brush', cursive;
   font-size: 24px;
   color: #ffffff;
   margin-top: 14%;
@@ -213,7 +213,7 @@ margin-left: 29%;
   overflow: hidden;
   border-radius: 5px;
   border: none;
-  background-color: #080808;
+  background-color: #555555;
   margin-left: 36%;
   margin-top: 5%;
   font-family: 'Julius Sans One', sans-serif;
@@ -244,7 +244,7 @@ margin-left: 29%;
   overflow: hidden;
   border-radius: 5px;
   border: none;
-  background-color: #070707;
+  background-color: #505050;
   margin-left: 33%;
   margin-top: -5%;
   font-family: 'Julius Sans One', sans-serif;
@@ -281,7 +281,7 @@ margin-left: 29%;
 }
 
 .parrafo5{
-  font-family: "Style Script", cursive;
+  font-family: 'Alex Brush', cursive;
   font-size: 25px;
   color: #ffffff;
   font-weight: 550;
@@ -344,10 +344,13 @@ margin-left: 29%;
 .parrafo10{
   text-align: center;
   font-family: 'Julius Sans One', sans-serif;
-   font-size: 19px;
-   color: #C29150;
-   font-weight: 800;
+   font-size: 14px;
+   color: #ffffff;
+   font-weight: 600;
  margin-top: 25%;
+ background-color: #474747;
+ background-image: url(./imagenes/papelitos.gif);
+ background-size: 30%;
 }
 .parrafo11{
     font-family: 'Dancing Script', cursive; 
