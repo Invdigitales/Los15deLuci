@@ -58,8 +58,9 @@ background-size: 100%;
     font-size: 15px;
     text-align: center;
     margin-top: 5%;
+    font-weight: 600;
     color: #ffffff;
-   
+    text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(21, 21, 21), 0 0 30px rgb(99, 99, 99), 0 0 50px rgb(74, 74, 74);
    }
    .audio{
     width: 35%;
@@ -419,7 +420,15 @@ margin-top: 5%;
   background-size: 100%;
    }
 
-
+.click{
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+   font-size: 15px;
+   color: #ffffff;
+   font-weight: 800;
+margin-top: 5%;
+text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 15px rgb(21, 21, 21), 0 0 30px rgb(99, 99, 99), 0 0 50px rgb(74, 74, 74);
+}
 
 
 .tecla {
