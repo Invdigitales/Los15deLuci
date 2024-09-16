@@ -52,13 +52,13 @@ background-size: 100%;
   }
   
    }
-   .h5{
+   .play{
   
-    font-family: 'Sacramento', cursive;
-    font-size: 20px;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 15px;
     text-align: center;
     margin-top: 5%;
-    color: #b7b2b6;
+    color: #ffffff;
    
    }
    .audio{
@@ -330,7 +330,7 @@ margin-left: 29%;
    font-size: 20px;
    color: #ffffff;
    font-weight: 800;
- margin-top: 10%;
+ margin-top: 14%;
 }
 .parrafo9{
   text-align: center;
@@ -341,9 +341,7 @@ margin-left: 29%;
   font-weight: 580;
    
 }
-.punto{
-  text-decoration: none;
-}
+
 .parrafo10{
   text-align: center;
   font-family: 'Julius Sans One', sans-serif;
@@ -355,105 +353,71 @@ margin-left: 29%;
  background-image: url(./imagenes/papelitos.gif);
  background-size: 30%;
 }
-.parrafo11{
-    font-family: 'Dancing Script', cursive; 
-    font-size: 24px;
-    color: #414141;
-    font-weight: 550;
-    margin-top: 5%;
+
+
+.wed{
+ 
     text-align: center;
-   
-  
+    font-family: 'Julius Sans One', sans-serif;
+     font-size: 19px;
+     color: #ffffff;
+     font-weight: 800;
+margin-top: 5%;
 }
 
-.parrafo13{
+.codigo{
+ 
   text-align: center;
   font-family: 'Julius Sans One', sans-serif;
    font-size: 19px;
-   color: #C29150;
+   color: #ffffff;
    font-weight: 800;
-margin-top: 15%;
+margin-top: 5%;
 }
 .percha{
   width: 10%;
   margin-left: 46%;
 }
+.camara{
+  width: 15%;
+  margin-left: 43%;
+  margin-top: -3%;
+}
 .regalo{
   width: 8%;
   margin-left: 46%;
 }
-
+.album{
+  width: 16%;
+  margin-left: 42%;
+  margin-top: 5%;
+}
 .galeria{
   width: 8%;
   margin-left: 46%;
   margin-top: 2%;
 }
-.coral-1{
+
+.lucia{
   width: 25%;
-  margin-left: -50%;
-  margin-top: -2%;
+  margin-left: 36%;
+  margin-top: -3%;
 }
 
-.andres{
-  width: 25%;
-  margin-left: -50%;
-}
-.chat{
-  width:20%;
-    margin-left: 40%;
-    margin-top: -5%;
-  }
-
-.linea-1{
-  width: 60%;
-  color: #414141;
-  margin-left: 20%;
-}
-  .chat2{
-    width:20%;
-      margin-left: 40%;
-      margin-top: -5%;
-    }
-  .a{
-    text-decoration: none;
-  }
-.cardimg{
-  width: 60%;
-  height: 60%;
-  margin-left: 20%;
+.teespero{
+  font-family: 'Alex Brush', cursive;
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: 550;
+  margin-top: 20%;
+  text-align: center;
  
 }
-.final{
-  text-align: center;
-  font-family: 'Dancing Script', cursive; 
-  font-size: 30px;
-  color: #303030;
-  font-weight: 580;
-  margin-top: 15%;
-}
-.coral{
-  width: 45%;
-  margin-top: 8%;
-  margin-left: 28%;
-}
-.florfinal{
-  width: 25%;
-  margin-top: -2%;
-  margin-left: 38%;
-}
 
-
-.carousel-inner img{
-  width: 80%;
-  border-radius: 5%;
-  margin-top: 10%;
-}
-
-
-
-
-
-
+.ilucion{
+  background-image: url(./imagenes/ILUCION.gif);
+  background-size: 100%;
+   }
 
 
 
@@ -468,7 +432,6 @@ margin-top: -49%;
   max-width: 1200px;
   padding: 18px 7px;
   text-align: center;
-  margin-top: 20%;
   background-color: #ffffff;
   font-size: 100%;
 }
@@ -476,7 +439,7 @@ margin-top: -49%;
 
 .box__copyright p {
   margin-top: -10px;
-  color: #c3b1b1;
+  color: #7e2d6b;
   font-size: 12px;
   text-align: center;
 }
